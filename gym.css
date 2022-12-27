@@ -1,0 +1,101 @@
+body{
+	background-image: url('data:image/jpeg;base64,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');
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	padding : 15px;
+}
+*{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.leftnav{
+	/* border: 2px solid red; */
+	float:left;
+}
+.leftnav img
+{	
+	width: 43%;	
+	margin-bottom: -20px;
+}
+.leftnav h6{
+	font-weight: bold;
+	text-decoration: none;
+	/* padding-left: 3px; */
+	padding-left: 17px;
+    font-size: 15px;
+}
+/* leftnav done  */
+
+.midnav
+{
+	/* border: 3px solid red; */
+	float:left;
+	width:63%;	
+	padding-left: 21px;
+	/* height: 159px; */
+
+}
+.midnav li{
+	list-style: none;
+	float:left;
+	padding: 0px 96px 9px 50px;
+	text-decoration: overline ;
+
+}
+.midnav li:hover{
+	color: khaki;
+	text-decoration: underline;
+	cursor: pointer;
+	/* text-shadow:yellow; */
+	/* text-transform: uppercase; */
+}
+.midnav .home{
+	padding-left: 50px;
+}
+/* done desinging */
+
+
+.rightnav{
+	/* border: 2px solid red; */
+	float:right;
+	width: 300px;
+	text-align: center;
+}
+.rightnav button{
+	color: white	 ;
+	margin-right: 10px;
+	margin-top: 12px;
+	background-color: rgb(34, 32, 32);
+	border-radius: 10px;
+	padding : 10px
+}
+.rightnav button:hover{
+	cursor: pointer;
+	text-decoration:underline ;
+	background-color: rgb(61, 59, 58);
+}
+
+
+.content
+{
+	clear :both;
+	border: 3px solid white;
+	width: 400px;
+	height: 200px;
+	padding: 20px;
+	border-radius: 15px;
+	margin-top: 250px;
+	margin-left: 970px;
+	/* float: left; */
+}
+.content h5{
+	font-weight: bold;
+	padding-left: 15px;
+	font-size: large;
+}
+.content input
+{
+	margin : 4px;
+	border-radius: 5px;
+	text-align: center;
+}
